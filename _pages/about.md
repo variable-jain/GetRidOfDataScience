@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Varun (Me)
+<!-- title: Varun (Me) -->
 permalink: /about/
 ---
 
