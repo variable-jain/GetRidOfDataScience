@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Title",
-            "content": "&lt;!-- # GET RID OF all the hassel while setting up your own blog post . How to get your blog website up and about in less than 30 minutes . toc:true- branch: true | comments: true | author: Varun Jain | categories: [miscellaneous, getting-started] --&gt; # Fastpages Notebook Blog Post . A tutorial of fastpages for Jupyter notebooks. . | toc:true - badges: true . | comments: true | categories: [jupyter] | . Setting up fastpages . We will use fastai&#39;s fastpages to create our blog post. . Fastpages use ipython notebooks, markdown files and even word documents to convert the content into Jekyll blog posts and host it using Github pages. The setup took me 2-3 hours of searching and reading long documentations to get my blog post up and running. This blog can help you to do the same work in a few minutes. . Lets get started!! . Creating the github repository . Most of this is found at the github repository of fastpages, if you don&#39;t mind going through a long and complex github readme . Step 1: Clone the github repository of fastpages . Visit this link and fill the name of your blog post as the repository name. You need a github account to do this, so if you haven&#39;t created one - this is a good time to do that. Create your repository. .",
-            "url": "https://variable-jain.github.io/GetRidOfDataScience/2021/02/08/GRO-all-the-hassle-while-setting-up-your-own-blog-post.html",
-            "relUrl": "/2021/02/08/GRO-all-the-hassle-while-setting-up-your-own-blog-post.html",
+            "title": "GET RID OF all the hassel while setting up your own blog post",
+            "content": "Setting up fastpages . We will use fastai&#39;s fastpages to create our blog post. . Fastpages use ipython notebooks, markdown files and even word documents to convert the content into Jekyll blog posts and host it using Github pages. The setup took me 2-3 hours of searching and reading long documentations to get my blog post up and running. This blog can help you to do the same work in a few minutes. . Lets get started!! . Creating the github repository . Most of this is found at the github repository of fastpages, if you don&#39;t mind going through a long and complex github readme . Step 1: Clone the github repository of fastpages . Visit this link and fill the name of your blog post as the repository name. You need a github account to do this, so if you haven&#39;t created one - this is a good time to do that. Create your repository. .",
+            "url": "https://variable-jain.github.io/GetRidOfDataScience/miscellaneous/getting-started/2021/02/08/GRO-all-the-hassle-while-setting-up-your-own-blog-post.html",
+            "relUrl": "/miscellaneous/getting-started/2021/02/08/GRO-all-the-hassle-while-setting-up-your-own-blog-post.html",
             "date": " • Feb 8, 2021"
         }
         
